@@ -1,6 +1,6 @@
-fastapi
-uvicorn
+flask
+flask-cors
 pandas
 numpy
-httpx
+requests
 gunicorn
